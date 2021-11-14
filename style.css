@@ -1,0 +1,46 @@
+.content {
+  background-color: rgb(58, 36, 255);
+  width: 30vw;
+  height: auto;
+  position: absolute;
+  top: 50px;
+  left: 400px;
+  text-align: center;
+  padding: 20px;
+}
+
+.Rohit {
+  background-color: rgb(122, 2, 58);
+  width: 30vw;
+  height: auto;
+  position: absolute;
+  top: 300px;
+  left: 400px;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  width: auto;
+  border: 3px solid black;
+  border-radius: 2%;
+  box-shadow: 8px 8px 8px black;
+  padding: 5px;
+}
+
+#passkkk {
+  padding: 5px;
+  margin: 5px;
+  padding-left: 10px;
+  font-size: 14px;
+}
+
+#sdfgf {
+  font-size: 18px;
+}
+
+#butt {
+  padding: 5px;
+  font-size: 14px;
+  margin-left: 45px;
+}
